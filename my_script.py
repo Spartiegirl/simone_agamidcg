@@ -32,11 +32,9 @@
 # profile['city'] = 'London'
 # print(profile)
 
-
 # student = {'name': 'Emma', 'grade': 'A', 'subject': 'Math'}
 # student.pop('subject')
 # print(student)
-
 
 # print(student.keys())
 # print(student.values())

@@ -32,6 +32,7 @@ profile = {'name': 'Mary', 'age': 35, 'city': 'Philadelphia'}
 profile['city'] = 'London'
 print(profile)
 
+<<<<<<< HEAD
 
 student = {'name': 'Emma', 'grade': 'A', 'subject': 'Math'}
 student.pop('subject')
@@ -40,6 +41,14 @@ print(student)
 
 print(student.keys())
 print(student.values())
+=======
+# student = {'name': 'Emma', 'grade': 'A', 'subject': 'Math'}
+# student.pop('subject')
+# print(student)
+
+# print(student.keys())
+# print(student.values())
+>>>>>>> d66cd758ff4acd3d213db02c524bb6ba8bceb7ca
 
 fruits = {'apple', 'banana', 'cherry'}
 fruits.add('orange')

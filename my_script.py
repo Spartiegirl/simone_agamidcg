@@ -34,6 +34,8 @@
 
 
 
+
+
 # student = {'name': 'Emma', 'grade': 'A', 'subject': 'Math'}
 # student.pop('subject')
 # print(student)
@@ -42,12 +44,39 @@
 # print(student.keys())
 # print(student.values())
 
+
 # student = {'name': 'Emma', 'grade': 'A', 'subject': 'Math'}
 # student.pop('subject')
 # print(student)
 
+
 # print(student.keys())
 # print(student.values())
+
+
+# # student = {'name': 'Emma', 'grade': 'A', 'subject': 'Math'}
+# # student.pop('subject')
+# # print(student)
+
+# # print(student.keys())
+# # print(student.values())
+
+
+# fruits = {'apple', 'banana', 'cherry'}
+# fruits.add('orange')
+# print(fruits)
+
+# fruits.remove('banana')
+# print(fruits)
+
+# set_a = {1, 2, 3, 4}
+# set_b = {3, 4, 5, 6}
+# print(set_a.union(set_b))
+# print(set_a.intersection(set_b))
+
+# set_x = {'cat', 'dog', 'fish'}
+# set_y = {'dog', 'bird'}
+# print(set_x.difference(set_y))
 
 
 # fruits = {'apple', 'banana', 'cherry'}
@@ -123,6 +152,7 @@
 
 # green_vegetables = ['broccoli', 'green_beans', 'turnips']
 # orange_vegetables = []
+
 
 # for item in ['carrots','broccoli', 'green_beans', 'turnips']:
 #     if item in green_vegetables:
